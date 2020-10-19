@@ -16,8 +16,10 @@
         app:layout_constraintBottom_toBottomOf="@+id/favorite"
         app:layout_constraintDimensionRatio="16:9"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.051"
         app:srcCompat="@drawable/singapore" />
 
     <ImageView
@@ -29,7 +31,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.8"
+        app:layout_constraintVertical_bias="0.32"
         app:srcCompat="@drawable/ic_star" />
 
     <Button
