@@ -5,6 +5,7 @@ This folder contains the source code for the [ConstraintLayout codelab](https://
 This fork is migrated to using
 * [Android Studio 4.0.x](https://developer.android.com/studio/archive)
 * Android SDK Platform 28 - Android 9.0 (Pie)
+* [Reference](https://developer.android.com/training/constraint-layout)
 
 ### License
 
